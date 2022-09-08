@@ -1,0 +1,226 @@
+h1 {
+    color:#8d086ceb;
+    font-size:40px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h2 {
+    color:rgba(33, 8, 116, 0.951);
+    font-size:15px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h3 {
+    color:rgba(33, 8, 116, 0.951);
+    font-size:15px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+/*h4 {
+    color:rgba(6, 3, 18, 0.951);
+    font-size:15px;
+    font-weight: bold;
+    text-transform:unset;
+    text-align: center;
+}*/
+
+p {
+    color: rgba(137, 43, 226, 0.89);
+    font-size: 17px;
+    font-weight: bold;
+    text-transform: unset;
+
+}
+
+.headar {
+    height: 150px;
+    background: url(32827062d398c3bcebce44c02ac4fa3f_XL.jpg);
+    background-size: contain;
+    background-position: center;
+}
+
+
+.footer {
+    position: fixed; /* Фиксированное положение */
+    left: 0; bottom: 0; /* Левый нижний угол */
+    padding: 10px; /* Поля вокруг текста */
+    background: #edf670; /* Цвет фона */
+    color: #fff; /* Цвет текста */
+    width: 100%;
+}
+
+.widget {
+    margin: 6px;
+}
+
+
+
+.block1 {
+    width: 150px;
+    height: 150px;
+    border: 1px solid chartreuse;
+    margin-top: 20px;
+    border-radius: 20px;
+    background: url(odezhda-dlya-novorozhdennyh-kak-vybrat-i-skolko-nuzhno-109.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px;
+}
+
+.block2 {
+    width: 150px;
+    height: 150px;
+    border: 1px solid chartreuse;
+    margin-top: 20px;
+    border-radius: 20px;
+    background: url(modnaya_detskaya_odezhda_2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px;
+}
+
+.block3 {
+    width: 150px;
+    height: 150px;
+    border: 1px solid chartreuse;
+    margin-top: 20px;
+    border-radius: 20px;
+    background: url(det-obuv-21.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px;
+}
+
+.block4 {
+    width: 520px;
+    height: 350px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -140px 0 0 -140px;
+    border: 1px solid chartreuse;
+    background: url(odezhda-dlya-novorozhdennyh-ot-0-do-3-mesyacev-skolko-nuzhno-i-kak-vybrat-74.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px;
+    
+}
+
+.content {
+    width: 750px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+}
+
+.content2 {
+    width: 750px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; 
+}
+
+
+.button1 {
+    width: 70px;
+    height: 35px;
+    background-color:rgb(37, 225, 112);
+    color: azure;
+    text-align:center;
+    line-height: 35px;
+    margin: 20px auto 0;
+}
+
+.button1:hover {
+    background-color:azure;
+    color: blueviolet;
+    border: 1px solid blueviolet;
+}
+
+.button2 {
+    width: 90px;
+    height: 40px;
+    background-color:rgb(250, 150, 10);
+    color: azure;
+    text-align: center;
+    line-height: 35px;
+    margin: 4px;
+    clear: reght;;
+}
+
+.button2:hover {
+    background-color:#ebf3f7;
+    color: rgb(226, 141, 43);
+    border: 1px solid rgb(241, 234, 28);
+}
+
+.button3 {
+    width: 120px;
+    height: 35px;
+    background-color:rgb(37, 225, 112);
+    color: azure;
+    text-align:center;
+    line-height: 35px;
+    margin: 180px auto 0;
+}
+
+.button3:hover {
+    background-color:azure;
+    color: blueviolet;
+    border: 1px solid blueviolet;
+}
+
+.button4 {
+    width: 170px;
+    height: 35px;
+    background-color:rgb(37, 225, 112);
+    color: azure;
+    text-align:center;
+    line-height: 35px;
+    margin: 8px auto 0;
+}
+
+.button4:hover {
+    background-color:azure;
+    color: blueviolet;
+    border: 1px solid blueviolet;
+}
+
+.button5 {
+    width: 120px;
+    height: 35px;
+    background-color:rgb(37, 225, 112);
+    color: azure;
+    text-align:center;
+    line-height: 35px;
+    margin: -80px auto 0;
+}
+
+.button5:hover {
+    background-color:azure;
+    color: blueviolet;
+    border: 1px solid blueviolet;
+}
+
+a {
+    text-decoration: none;
+    text-align: center;
+}
+
+.form-email {
+    display: block;
+    margin: 100px;
+    padding: 8px;
+    position: center;
+    margin-left: auto;
+    margin-right: auto 
+  }
